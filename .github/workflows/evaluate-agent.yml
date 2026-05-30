@@ -1,7 +1,10 @@
 name: Evaluate Trail Guide Agent
 
 on:
-  # Uncomment the lines below to enable automatic evaluation on pull requests
+  push:
+    branches: [main, test/trigger-evaluation]
+    paths:
+      - "src/agents/trail_guide_agent/**"
   pull_request:
     branches: [main]
     paths:

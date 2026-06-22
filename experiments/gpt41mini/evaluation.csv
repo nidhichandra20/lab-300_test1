@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments
+day-hike-gear,"For a summer day hike, bring water, sun protection, and sturdy footwear...",5,5,4,"Concise and practical, slightly less detailed than baseline"
+overnight-camping,"For your first overnight camping trip, focus on shelter, sleep system, and safety basics...",4,4,5,"Good beginner guidance, streamlined but clear"
+three-day-backpacking,"October mountain backpacking requires layered clothing, cold-weather gear, and strict safety planning...",5,5,5,"Excellent safety emphasis, comprehensive and actionable"
+trail-difficulty,"Beginner hikers should choose easy-rated trails under 5 miles with minimal elevation gain...",5,5,5,"Clear framework for self-assessment, actionable advice"
+winter-hiking,"Winter hiking demands extra layers, insulated boots, traction devices, and awareness of hypothermia risks...",4,4,4,"Good seasonal comparison, practical but slightly long-winded"
